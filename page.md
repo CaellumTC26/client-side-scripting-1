@@ -2,12 +2,12 @@
 ## txt 
 paragraph text with **bold** and *italics*. 
 ## lst 
--unordered 
--lists 
+- unordered 
+- lists 
 and 
 1. ordered
 2. lists
 ## lnk 
-[link](https://google.com) 
+[link](https://google.com)
 [another link](https://youtube.com)
 [link back to first page](https://caellumtc26.github.io/client-side-scripting-1/)
