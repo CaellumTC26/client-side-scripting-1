@@ -13,3 +13,5 @@ and
 [link back to first page](https://caellumtc26.github.io/client-side-scripting-1/)
 
 ## this only works in the github preview, i cant get markdown to render elsewhere
+[working version here](https://github.com/CaellumTC26/client-side-scripting-1/blob/main/page.md)
+
